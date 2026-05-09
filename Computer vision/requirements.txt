@@ -1,0 +1,23 @@
+# Core CV / DL
+ultralytics==8.3.195
+
+# PyTorch (CPU ONLY – will be installed manually)
+# torch
+# torchvision
+# torchaudio
+
+# Computer Vision
+opencv-python==4.11.0.86
+
+# Math
+numpy==1.26.4
+
+# Web app
+Flask==2.3.0
+flask-cors==3.0.10
+
+# Images
+Pillow==11.3.0
+
+# Serial
+pyserial==3.5
