@@ -37,7 +37,7 @@ The robot is designed to detect waste objects, follow them autonomously, and per
 
 The following diagram illustrates the communication between ROS2 nodes and topics inside the system.
 
-![System Architecture](images/ros_graph.png)
+![System Architecture](Robotics/Images/rosgraph.png)
 
 The architecture is divided into three main nodes:
 
